@@ -1,0 +1,14 @@
+command /prace:
+    trigger:
+        open chest with 2 rows named "------[ &6&lDostepne prace! ]------" to player
+        format slot 0 of player with white glass pane named " " to be unstealable
+        format slot 1 of player with white glass pane named " " to be unstealable
+        format slot 2 of player with white glass pane named " " to be unstealable
+        format slot 3 of player with white glass pane named " " to be unstealable
+        format slot 4 of player with white glass pane named " " to be unstealable
+        format slot 5 of player with white glass pane named " " to be unstealable
+        format slot 6 of player with white glass pane named " " to be unstealable
+        format slot 7 of player with white glass pane named " " to be unstealable
+        format slot 8 of player with white glass pane named " " to be unstealable
+        format slot 9 of player with white glass pane named " " to be unstealable
+        format slot 10 of player with white glass pane named " " to be unstealable
